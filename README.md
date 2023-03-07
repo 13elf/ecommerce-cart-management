@@ -4,4 +4,4 @@ This is an NodeJS application that demonstrates cart management using MongoDB. I
 
 # Installation
 
-Set `MONGO_DB_URI` environment variable with your own mongoDB URI to get started or simply replace is in app.js file.
+Replace `MONGO_DB_URI` environment variable with your own mongoDB URI to get started or simply replace it in app.js file.
